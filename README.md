@@ -2,4 +2,4 @@
 
 Analytische Betrachtungen des Bundestags.
 
-![](img/rot-contra--blau-pro.jpg)
+![](img/blau-pro--rot-contra.jpg)
